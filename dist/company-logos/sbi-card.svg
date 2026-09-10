@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 82" role="img" aria-label="SBI Card logo">
+  <rect width="300" height="82" rx="12" fill="#fff"/>
+  <circle cx="42" cy="41" r="16" fill="#14a7de"/><circle cx="42" cy="41" r="6" fill="#fff"/>
+  <text x="66" y="54" fill="#213880" font-family="Arial, sans-serif" font-size="34" font-weight="700">SBI</text>
+  <text x="126" y="54" fill="#0b9ed6" font-family="Arial, sans-serif" font-size="34">card</text>
+</svg>
