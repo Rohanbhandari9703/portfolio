@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react'
 import { createRoot } from 'react-dom/client'
 import './style.css'
 
-const links = { github: 'https://github.com/Rohanbhandari9703', linkedin: 'https://linkedin.com/in/rohanb9', leetcode: 'https://leetcode.crooohen/', email: 'https://mail.google.com/mail/?view=cm&fs=1&to=rohanbhandari9703@gmail.com', furrendly: 'https://www.furrendly.com/', sbi: 'https://www.sbicard.com/' }
+const links = { github: 'https://github.com/Rohanbhandari9703', linkedin: 'https://linkedin.com/in/rohanb9', leetcode: 'https://leetcode.com/u/crooohen/', email: 'https://mail.google.com/mail/?view=cm&fs=1&to=rohanbhandari9703@gmail.com', furrendly: 'https://www.furrendly.com/', sbi: 'https://www.sbicard.com/' }
 const nav = [['⌂','Home','home'],['▣','Projects','projects'],['◷','Experience','experience'],['◇','Skills','skills'],['▤','Education','education'],['✦','Contact','contact']]
 const projects = [
   {name:'BOIL-Gen',type:'NPM PACKAGE · 400+ DOWNLOADS',desc:'An AI-powered CLI that generates full-stack boilerplate in seconds, turning a blank folder into a thoughtful starting point.',stack:['Node.js','Express','Gemini'],metric:'1K+ projects generated',tone:'orange',url:'https://github.com/Rohanbhandari9703/boil-gen',image:'/project-images/boil-gen.png'},
